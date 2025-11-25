@@ -1,0 +1,10 @@
+{
+  "yt": {
+    "url": "https://youtube.com",
+    "clicks": 0
+  },
+  "fb": {
+    "url": "https://facebook.com",
+    "clicks": 0
+  }
+}
