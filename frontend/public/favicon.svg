@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Blue background -->
+  <rect x="4" y="4" width="56" height="56" rx="14" ry="14" fill="#0A63FF"></rect>
+
+  <!-- Extra Large Link Icon -->
+  <path d="M20 32 a10 10 0 0 1 10-10 h8 M44 32 a10 10 0 0 1-10 10 h-8" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
